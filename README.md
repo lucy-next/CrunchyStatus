@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="logo.png" alt="RollSync Logo" width="200">
+  <img src="logo.png" alt="CrunchyStatus Logo" width="200">
 </p>
 
-<h1 align="center">RollSync</h1>
+<h1 align="center">CrunchyStatus</h1>
 <h3 align="center">Seamless Crunchyroll Discord Integration</h3>
 
 <p align="center">
-  <a href="https://github.com/yourusername/RollSync-Droid">Check out the Android version: RollSync Droid</a>
+  <a href="https://github.com/PinkLucy/CrunchyStatus-Droid">Check out the Android version: CrunchyStatus Droid</a>
 </p>
 
 ---

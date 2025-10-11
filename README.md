@@ -5,10 +5,6 @@
 <h1 align="center">CrunchyStatus</h1>
 <h3 align="center">Seamless Crunchyroll Discord Integration</h3>
 
-<p align="center">
-  Check out the Android version: <a href="https://github.com/PinkLucy/CrunchyStatus-Droid">CrunchyStatus Droid</a>
-</p>
-
 ---
 
 ## How to Use

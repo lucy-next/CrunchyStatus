@@ -11,7 +11,7 @@
 
 ### PC (Windows)
 1. Install the browser extension.
-2. Run the RollSync Windows app.
+2. Run the CrunchyStatus Windows app.
 3. Enjoy Crunchyroll activity displayed on Discord.
 
 ---

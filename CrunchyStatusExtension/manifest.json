@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "CrunchyStatus",
+  "version": "1.0",
+  "description": "Send Crunchyroll state to local tray app.",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "permissions": [
+    "scripting",
+    "storage",
+    "tabs"
+  ],
+  "host_permissions": [
+    "*://*.crunchyroll.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://*.crunchyroll.com/*"],
+      "js": ["content_script.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
